@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DAMA_Storage</string>
+    <string name="save_2">Save 2</string>
+    <string name="load_1">Load 1</string>
+    <string name="save_1">Save 1</string>
+    <string name="internal_and_external_storage">Internal and External Storage</string>
+    <string name="load_4">Load 4</string>
+    <string name="save_3">Save 3</string>
+    <string name="save_4">Save 4</string>
+    <string name="load_3">Load 3</string>
+    <string name="load_2">Load 2</string>
+    <string name="shared_preferences">Shared Preferences</string>
+    <string name="cache">Cache</string>
+    <string name="save_5">Save 5</string>
+    <string name="load_5">Load 5</string>
+</resources>
